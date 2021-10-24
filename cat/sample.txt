@@ -1,0 +1,41 @@
+Pylint User Manual
+Pylint is a tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells. It can also look for certain type errors, it can recommend suggestions about how particular blocks can be refactored and can offer you details about the code's complexity.
+
+Introduction
+Tutorial
+User Guide
+Installation
+Running Pylint
+Pylint output
+Messages control
+Configuration
+Editor and IDE integration
+How To Guides
+How to Write a Checker
+How To Write a Pylint Plugin
+Transform plugins
+Technical Reference
+Startup and the Linter Class
+Checkers
+Optional Pylint checkers in the extensions module
+Pylint features
+Pylint and C extensions
+Development
+Contributing
+Additional Commands
+Frequently Asked Questions
+Some projects using Pylint
+Support
+What's New in Pylint
+What's New in Pylint 2.12
+What's New in Pylint 2.11
+What's New in Pylint 2.10
+What's New in Pylint 2.9
+What's New in Pylint 2.8
+What's New in Pylint 2.7
+What's New in Pylint 2.6
+What's New in Pylint 2.5
+What's New in Pylint 2.4
+What's New in Pylint 2.3
+What's New in Pylint 2.2
+What's New in Pylint 2.1
